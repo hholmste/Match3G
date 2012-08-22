@@ -1,6 +1,18 @@
 *.class
+.classpath
+.project
+.settings
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# my IDE for this stuff #
+eclipse_workspace
+eclipse
+
+# project specific stuff #
+matchthree-android/bin
+src/matchthree-android/libs
+src/matchthree-html/war/
